@@ -1,0 +1,5 @@
+$kind: collection
+auth:
+  - id: 03cff695-ea6b-4b3a-835e-12a230829653
+    type: apikey
+    name: API Key
